@@ -1,0 +1,120 @@
+.log-area {
+    width: 350px;
+    height: 400px;
+    background: transparent;
+    top: 200px;
+    left: 180px;
+    color: dimgrey;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius: 10px;
+  }
+ 
+  #derecho,
+  #izquierdo {
+    box-sizing: border-box;
+    width: 767px;
+    height: 720px;
+    
+  }
+
+  #contenedor{
+    width: 1400px;
+    height: 600px;
+    top: 40px;
+    left: 70px;
+    position: relative;
+    border-radius: 10px;
+    padding: 30px 30px;
+  }
+
+  #carouselExampleCaptions{
+    width: 100%;
+  }
+
+  .contenedor2{
+    width: 1400px;
+    height: 800px;
+    background: floralwhite;
+    top: 40px;
+    left: 70px;
+    position: relative;
+    border-radius: 10px;
+    padding: 30px 30px;
+  }
+
+  html,body,#contanier,#subcontainer {
+    width: 1534px;
+    height: 720px;
+  }
+  #derecho {
+    background: #fff url('https://res.cloudinary.com/dcgvkvdwe/image/upload/v1583023897/business-close-up-energy-equipment-191648_thakuv.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .caja-pre {
+    width: 1400px;
+    height: 2000px;
+    background: bisque;
+    color: dimgrey;
+    top: 30px;
+    left: 30px;
+    position: absolute;
+    transform: translate(30px, 30px);
+    box-sizing: border-box;
+    padding: 30px 30px;
+  }
+
+  .caja-pre input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .log-area h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .log-area input .log-area button {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .log-area input[type="text"], .log-area input[type="password"] .log-area button {
+    border-bottom: 1px solid #fff;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+  }
+
+  .log-area button{
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  .formula{
+    position: absolute;
+    left: 650px;
+    top:2500 px;
+  }
+
+  .btn-group{
+    outline: none;
+    width: 100%;
+    border: none;
+  }
+  .btn-link{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 20px;
+    color: darkgrey;
+    text-decoration-line: none;
+  }
